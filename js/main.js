@@ -87,7 +87,7 @@
 
         /** Typed.js (Text typing effect) */
         $("#typed").typed({
-            strings: ["^2100&nbsp;I'm Daniel Koranteng.<br/>Android Developer."],
+            strings: ["^2100&nbsp;I'm Daniel Koranteng.<br/>Android / Web Developer / System Administrator / Computer Networking and Hardware Repairs."],
             typeSpeed: 30,
             backDelay: 750,
             loop: false,
